@@ -42,12 +42,13 @@ a:hover {
 p, ul, ol {
   margin-bottom: 1.5em;
   font-size: 16px;
-  color: #848484;
+  color: #F2f5a9;
   font-family: "Open Sans", Arial, sans-serif;
+  font-weight: bold;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #5a5a5a;
+  color: #084B8A;
   font-family: "Montez", cursive;
   font-weight: 400;
   margin: 0 0 30px 0;
@@ -254,7 +255,7 @@ figure {
 }
 
 .sf-menu a {
-  color: #fcd088;
+  color: #084B8A;
   padding: 0.75em 1em !important;
   font-weight: normal;
   border-left: none;
@@ -380,11 +381,11 @@ figure {
 }
 
 #fh5co-logo a {
-  color: #FFE5B4;
+  color: #084B8A;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: #F69D9D !important;
+  color: #FFE5B4 !important;
 }
 
 #fh5co-menu-wrap {
@@ -568,7 +569,7 @@ figure {
   font-size: 50px;
   font-weight: 300;
   position: relative;
-  color: #F69D9D;
+  color: #084B8A;
 }
 
 .heading-section p {
@@ -606,7 +607,7 @@ figure {
 }
 
 #fh5co-countdown {
-  background: #fcd088;
+  background:  #F5BCA9;
 }
 
 #fh5co-countdown .countdown {
@@ -630,7 +631,7 @@ figure {
 .couple-wrap {
   width: 100%;
   float: left;
-  background: #F6FAF7;
+  background: #fff;
 }
 
 .couple-desc {
@@ -905,7 +906,7 @@ figure {
 }
 
 #footer {
-  background: #fcd088;
+  background:  #F5BCA9;
   /*#FFE5B4*/
   padding: 60px 0 40px;
 }
@@ -1329,3 +1330,4 @@ form label.error {
   font-weight: bold;
   font-size: 16px;
 }
+
