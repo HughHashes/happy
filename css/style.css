@@ -1,3 +1,4 @@
+
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -58,7 +59,7 @@ figure {
 
 ::-webkit-selection {
   color: #fcfcfc;
-  background: #F69D9D;
+  background: #FFE5B4;
 }
 
 ::-moz-selection {
@@ -130,6 +131,7 @@ figure {
   text-decoration: none;
   color: white !important;
 }
+
 
 .header-top .fh5co-social a:hover i, .header-top .fh5co-social a:focus i, .header-top .fh5co-social a:active i {
   -webkit-transform: scale(1.2);
@@ -252,7 +254,7 @@ figure {
 }
 
 .sf-menu a {
-  color: rgba(0, 0, 0, 0.5);
+  color: #fcd088;
   padding: 0.75em 1em !important;
   font-weight: normal;
   border-left: none;
@@ -265,11 +267,11 @@ figure {
 }
 
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #F69D9D !important;
+  color: #fcd088!important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  color: #F69D9D;
+  color: #FFE5B4;
 }
 
 .sf-menu li,
@@ -293,7 +295,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #F69D9D;
+  color: #fcd088;
 }
 
 .sf-menu ul li:hover,
@@ -378,7 +380,7 @@ figure {
 }
 
 #fh5co-logo a {
-  color: #F69D9D;
+  color: #FFE5B4;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
@@ -604,7 +606,7 @@ figure {
 }
 
 #fh5co-countdown {
-  background: #F69D9D;
+  background: #fcd088;
 }
 
 #fh5co-countdown .countdown {
@@ -903,7 +905,8 @@ figure {
 }
 
 #footer {
-  background: #F69D9D;
+  background: #fcd088;
+  /*#FFE5B4*/
   padding: 60px 0 40px;
 }
 

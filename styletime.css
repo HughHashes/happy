@@ -231,6 +231,7 @@
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
+
 }
 @media screen and (max-width: 768px) {
   .heart {
@@ -249,7 +250,7 @@
 }
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
-  color: #F14E95;
+  color: #fcd088;
   font-size: 30px;
 }
 .couple-half .groom, .couple-half .bride {
