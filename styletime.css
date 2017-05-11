@@ -9,7 +9,7 @@
   position: absolute;
   content: " ";
   width: 1px;
-  background-color: #d4d4d4;
+  background-color: #fff;
   left: 50%;
   margin-left: 0px;
 }
@@ -32,7 +32,7 @@
 .timeline > li > .timeline-panel {
   width: 40%;
   float: left;
-  border: 1px solid #d4d4d4;
+  border: 1px solid #F2F5A9;
   padding: 30px;
   position: relative;
   -webkit-border-radius: 4px;
@@ -88,7 +88,7 @@
   top: 16px;
   left: 50%;
   margin-left: -80px;
-  background-color: #999999;
+  background-color: #F2F5A9;
   z-index: 100;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -184,7 +184,7 @@
 #fh5co-gallery,
 .fh5co-section {
   padding: 7em 0;
-  clear: both;
+  color: #F2F5A9;
 }
 @media screen and (max-width: 768px) {
   #fh5co-testimonial,
@@ -201,12 +201,13 @@
 }
 
 .fh5co-section-gray {
-  background: rgba(0, 0, 0, 0.04);
+  background: #F2F5A9;
 }
 .couple-wrap {
   width: 90%;
   margin: 0 auto;
   position: relative;
+  color: #F2F5A9;
 }
 @media screen and (max-width: 768px) {
   .couple-wrap {
@@ -242,6 +243,7 @@
 .couple-half {
   width: 50%;
   float: left;
+  background-color: #F2F5A9;
 }
 @media screen and (max-width: 768px) {
   .couple-half {
