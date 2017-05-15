@@ -184,7 +184,7 @@
 #fh5co-gallery,
 .fh5co-section {
   padding: 7em 0;
-  color: #F2F5A9;
+  color: #ffddbc;
 }
 @media screen and (max-width: 768px) {
   #fh5co-testimonial,
@@ -207,7 +207,7 @@
   width: 90%;
   margin: 0 auto;
   position: relative;
-  color: #F2F5A9;
+  color: #ffddbc;
 }
 @media screen and (max-width: 768px) {
   .couple-wrap {
@@ -243,7 +243,7 @@
 .couple-half {
   width: 50%;
   float: left;
-  background-color: #F2F5A9;
+  background-color: #feffef;
 }
 @media screen and (max-width: 768px) {
   .couple-half {
@@ -252,7 +252,7 @@
 }
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
-  color: #084B8A;
+  color: #ffddbc;
   font-size: 30px;
 }
 .couple-half .groom, .couple-half .bride {

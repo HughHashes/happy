@@ -17,8 +17,8 @@ body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
   font-size: 16px;
-  background: #F2F5A9;
-  color: #848484;
+  background: #feffef;
+  color: #47778c;
   font-weight: 300;
   overflow-x: hidden;
 }
@@ -35,21 +35,18 @@ a {
 }
 
 a:hover {
- -ms-transform: rotate(7deg); /* IE 9 */
- -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
- transform: rotate(7deg); 
 }
 
 p, ul, ol {
   margin-bottom: 1.5em;
   font-size: 16px;
-  color: #F5BCA9;
+  color: #ffddbc;
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: bold;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #084B8A;
+  color: #47778c;
   font-family: "Montez", cursive;
   font-weight: 400;
   margin: 0 0 30px 0;
@@ -206,11 +203,11 @@ figure {
 }
 
 .fh5co-cover .display-tc h1 {
-  color: #fff;
+  color: #feffef;
 }
 
 .fh5co-cover .display-tc h2 {
-  color: #fff;
+  color: #feffef;
   font-size: 80px;
   margin-bottom: 30px;
   font-weight: 300 !important;
@@ -227,15 +224,15 @@ figure {
 }
 
 .fh5co-cover .display-tc p {
-  color: #fff;
+  color: #feffef;
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 7px;
 }
 
 .fh5co-cover .display-tc p span {
-  border-top: 2px solid #fff;
-  border-bottom: 2px solid #fff;
+  border-top: 2px solid #feffef;
+  border-bottom: 2px solid #feffef;
   padding: 5px 0px;
 }
 
@@ -266,6 +263,7 @@ figure {
   zoom: 1;
   font-size: 16px;
   border-bottom: none !important;
+  
 }
 
 .sf-menu a:hover, .sf-menu a:focus {
@@ -299,7 +297,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #084B8A;
+  color: #47778c;
 }
 
 .sf-menu ul li:hover,
@@ -353,7 +351,7 @@ figure {
   left: 0;
   width: 100%;
   z-index: 1022;
-  background: #F2F5A9;
+  background: #feffef;
 }
 
 .nav-header {
@@ -384,11 +382,11 @@ figure {
 }
 
 #fh5co-logo a {
-  color: #084B8A;
+  color: #47778c;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: #084B8A !important;
+  color: #47778c !important;
 }
 
 #fh5co-menu-wrap {
@@ -404,7 +402,7 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #F69D9D !important;
+  color: #47778c !important;
 }
 
 #fh5co-primary-menu > li > .sf-with-ul:after {
@@ -611,13 +609,13 @@ figure {
 }
 
 #fh5co-countdown {
-  background: #fff;
+  background: #ffddbc;
 }
 
 #fh5co-countdown .countdown {
   margin-bottom: 0;
   font-size: 80px;
-  color: #084B8A;
+  color: #47778c;
 }
 
 #fh5co-countdown .countdown span {
@@ -910,13 +908,13 @@ figure {
 }
 
 #footer {
-  background:  #F5BCA9;
+  background: #ffddbc;
   /*#FFE5B4*/
   padding: 60px 0 40px;
 }
 
 #footer p {
-  color: white;
+  color: #47778c;
   font-size: 14px;
 }
 
@@ -929,7 +927,7 @@ figure {
 }
 
 #footer h2 {
-  color: #fff;
+  color: #47778c;
   font-size: 60px;
 }
 
@@ -1336,3 +1334,6 @@ form label.error {
   font-size: 16px;
 }
 
+.present-page{
+  color: #084B8A;
+}
