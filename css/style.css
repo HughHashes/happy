@@ -47,7 +47,7 @@ p, ul, ol {
 
 h1, h2, h3, h4, h5, h6 {
   color: #47778c;
-  font-family: "Montez", cursive;
+  font-family: 'Satisfy', cursive;
   font-weight: 400;
   margin: 0 0 30px 0;
 }
@@ -558,7 +558,7 @@ figure {
 }
 
 .fh5co-section-gray {
-  background: #F2F5A9;
+  background: #feffef;
 }
 
 .heading-section {
@@ -661,7 +661,7 @@ figure {
 }
 
 .wedding-events {
-  background: #fff;
+  background: #f9f9ef;
 }
 
 .wedding-events .ceremony-bg {
@@ -1336,4 +1336,8 @@ form label.error {
 
 .present-page{
   color: #084B8A;
+}
+
+#of{
+  color: #fff;
 }
