@@ -125,10 +125,11 @@
 .date {
   display: block;
   margin-bottom: 20px;
-  font-size: 13px;
+  font-size: 19px;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #47778c;
+  font-family: 'Amatic SC', cursive;
 }
 
 .timeline-body > p,
@@ -252,9 +253,9 @@
   }
 }
 .couple-half h3 {
-  font-family: "Sacramento", Arial, serif;
-  color: #ffddbc;
-  font-size: 30px;
+  font-family: 'Alex Brush', cursive;
+  color: #47778c;
+  font-size: 33px;
 }
 .couple-half .groom, .couple-half .bride {
   float: left;

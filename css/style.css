@@ -47,9 +47,10 @@ p, ul, ol {
 
 h1, h2, h3, h4, h5, h6 {
   color: #47778c;
-  font-family: 'Satisfy', cursive;
+  font-family: 'Alex Brush', cursive;
   font-weight: 400;
   margin: 0 0 30px 0;
+  font-size: 50px;
 }
 
 figure {
@@ -234,6 +235,8 @@ figure {
   border-top: 2px solid #feffef;
   border-bottom: 2px solid #feffef;
   padding: 5px 0px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 24px;
 }
 
 /* Superfish Override Menu */
@@ -243,6 +246,7 @@ figure {
 
 .sf-menu {
   float: right;
+  font-family: 'Amatic SC', cursive;
 }
 
 .sf-menu ul {
@@ -261,7 +265,7 @@ figure {
   border-top: none;
   text-decoration: none;
   zoom: 1;
-  font-size: 16px;
+  font-size: 24px;
   border-bottom: none !important;
   
 }
@@ -621,7 +625,7 @@ figure {
 #fh5co-countdown .countdown span {
   margin: 0 30px;
   display: inline-block;
-  font-family: "Montez", cursive;
+  font-family: 'Amatic SC', cursive;
 }
 
 #fh5co-countdown .countdown small {
@@ -1339,5 +1343,24 @@ form label.error {
 }
 
 #of{
-  color: #fff;
+  color: #feffef;
+}
+
+#date-location{
+  font-family: 'Amatic SC', cursive;
+}
+
+#daparty{
+  font-family: 'Amatic SC', cursive;
+  color: #47778c;
+  font-size: 15px;
+}
+
+#mill{
+  color: #47778c;
+}
+
+.mill2{
+  font-size: 23px;
+  font-family: 'Amatic SC', cursive;
 }
