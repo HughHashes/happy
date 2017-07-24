@@ -1363,12 +1363,14 @@ form label.error {
 #mill2{
   color: #47778c;
   font-size: 30px;
+  font-family: 'Alex Brush', cursive;
 }
 
 .mill2{
   font-size: 23px;
   font-family: 'Amatic SC', cursive;
 }
+
 
 #space{
   background: #ffddbc;
